@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nirunj27
-- 👀 I’m interested in website development,blockchain technology,decentralized Application developement
-- 🌱 I’m currently learning solidity programming language,web 3.0
+- 👀 I’m interested in website development,Web Application developement,mern stack development
+- 🌱 I’m currently learning Aws Cloud Platform,Angukar Framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
