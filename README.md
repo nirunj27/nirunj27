@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nirunj27
 - 👀 I’m interested in website development,Web Application developement,mern stack development
-- 🌱 I’m currently learning Aws Cloud Platform,Angular Framework
+- 🌱 I’m currently learning Aws Cloud Platform,System Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
